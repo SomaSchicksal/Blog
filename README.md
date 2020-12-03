@@ -1,1 +1,1 @@
-# Blog
+# Beginner Blog project
